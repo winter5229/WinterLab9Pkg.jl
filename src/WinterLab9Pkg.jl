@@ -16,3 +16,4 @@ function pdf_normal(x::Number, mu::Number, sigma::Number)
 end
 
 end # module
+#testing that I can develop the package
